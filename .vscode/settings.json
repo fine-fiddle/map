@@ -26,4 +26,12 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "window.autoDetectColorScheme": true,
+  "markdownlint.config": {
+    // blank lines around lists
+    "MD032": false,
+    // blank lines around header
+    "MD022": false,
+    // line length
+    "MD013": false    
+  }
 }
