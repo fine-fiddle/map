@@ -32,6 +32,8 @@
     // blank lines around header
     "MD022": false,
     // line length
-    "MD013": false    
+    "MD013": false,
+    // Trailing punctuation in heading
+    "MD026": false
   }
 }
