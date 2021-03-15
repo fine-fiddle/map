@@ -14,7 +14,7 @@
 - [ ] 2 bay
 - [ ] Salt to taste
 
-### Proces
+### NYT Process
 1. In a 6-quart or larger stovetop pressure cooker or an electric pressure cooker, heat the oil over medium-high heat or using the sauté function. Stir in the onions, chile powder, cumin and oregano and cook, stirring frequently, until the onions begin to soften, about 1 minute.
 2. Add the water, beans, chorizo, garlic and bay leaves.
 3. Lock the lid in place. Over high heat, bring to high pressure. Reduce the heat just enough to maintain high pressure and cook for 30 minutes. If using an electric pressure cooker, cook on high pressure for 30 minutes.
@@ -22,7 +22,7 @@
 5. Stir well. Discard the bay leaves and add salt to taste. The soup will thicken on standing.
 6. Just before serving, prepare the avocado salsa by tossing the ingredients together in a bowl. Ladle the soup into bowls and top each portion with a large dollop of salsa.
 
-## Borrachos Notes
+## Notes from Borrachos
 - 3/4 full for pints. 1.5" below max (by that do i mean below the max line or the lid?)
 - less than 1/4 c beans (when adding 3/4 tsp barley, 1 tsp wild rice)
   - beans are said to triple in size when cooked
