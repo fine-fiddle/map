@@ -1,6 +1,10 @@
 # Gelatin
 
 ## Next Steps
+<https://sugargeekshow.com/recipe/real-gummy-bear-recipe/>
+<https://www.youtube.com/watch?v=5-gIY7HuJNo> potassium sorbate
+
+
 - [x] [Pipettor](https://www.amazon.com/gp/product/B07Y1BDGWW)
   - [x] [Pipettes](https://www.amazon.com/gp/product/B01N65NXHA)
 - [x] Molds. Would be clutch to have 3d molds
@@ -20,6 +24,8 @@ Small Jello® in bowl- 3oz in .25c H20
   - Stirred continuously till it began to thicken.
   - Could see chunks inside the whole time.
 - Poured into v. lightly greased bowl for cooling.
+- tacky as shit when removed. 
+  - Placed on cooling rack in front of fan @ 16:10
 
 ## First Experiment 2021-03-14
 Large Jello® Packet (6oz) in .75c H20 @ 200°F
