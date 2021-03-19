@@ -1,0 +1,10 @@
+# End of the World
+
+## Prions
+- So denaturing a protein generally involves interfering with the noncovalent interactions (e.g. hydrogen bonds, attractions between internal charges) that allow it to fold into the right functional shape. Often times, these proteins folded under conditions that carefully facilitated their coming out the right way, so simply removing the denaturing stimulus (e.g. allowing them to cool) won’t result in a reversion to their former configuration. This is what you see, for example, in cooking, where there’s a discrete change that doesn’t revert.
+- Prions are generally much more stable and can revert back to dangerous form once denaturing conditions change back. It takes a lot more to denature them irreversibly than it does most proteins. This stability is part of what makes them so dangerous and difficult to remove.
+
+Another commenter pointed out that the general idea of denaturing a protein is interfering with noncovalent interactions, generally by interrupting the structure that the complete sequence takes after the folding process. These structures give rise to the classic shapes that proteins take, the loops and sheets and clumps of atoms you see in renderings. The other commenter mentioned cooking, and this process is the same that happens when you cook an egg, the proteins in the egg white are denatured and turn into amorphous strands of protein.
+However there is a difference between a denaturing process and a lysing (breaking) process, meaning that the actual covalent, chemical bonds between the component amino acids that make up a protein are broken. This bond is called the peptide bond, and they are extremely stable, and to break them without enzymes requires some crazy conditions like strong acids or bases and high heat and long periods of time. There is a class of enzymes called proteases that catalyze and speed up this breaking-down process, which is what cells use to digest and break down proteins.
+
+world turns into a system that is hostile to all forms of life with neurons.
