@@ -25,3 +25,10 @@
   - Then tried to tap in Audio Device list
   - spins, connected, allows me to play. No audio. Crown and ANC button unresponsive.
 - Asks me to mail in headset.
+
+## 2021-04-02 Store visit for 03-17 issue
+- I came in with my screenshot of the original chat session, plus my picture of the instructions that came with the packing material for sending in the headphones- neither of which mentioned removing the ear cups
+- She said, and wrote in the ticket notes that i had to sign “customer claims he was not told to remove ear cups”
+- and “as a courtesy, we’ll replace them this time. I believe your story” like she was doing me a favor
+- I asked her to record the fact that i had a photo showing the instructions, and it wasn’t a wild claim that she was choosing to believe, but several pieces of evidence, she didn’t want to put that in the note
+- also they can only ship to the store, so i have to figure out how to get back to Michigan Ave apple store again. 
