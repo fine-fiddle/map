@@ -15,7 +15,7 @@
 - ANC button and Crown still don't work
 - Plugged into power again, without pushing buttons LED pulses white for a while, nothing changes. Doesn't show up as new device on phone or anything.
 
-- Avisor says to factory defaults Earpods Max: https://support.apple.com/kb/HT211904
+- Avisor says to factory defaults Earpods Max: <https://support.apple.com/kb/HT211904>
   - It won't flash white, only amber
 - Asks to do it again
   - orange flash at like 12s, turned green at 43s solid green at 90s or so, black at 120. green again at 2:15
@@ -31,4 +31,4 @@
 - She said, and wrote in the ticket notes that i had to sign “customer claims he was not told to remove ear cups”
 - and “as a courtesy, we’ll replace them this time. I believe your story” like she was doing me a favor
 - I asked her to record the fact that i had a photo showing the instructions, and it wasn’t a wild claim that she was choosing to believe, but several pieces of evidence, she didn’t want to put that in the note
-- also they can only ship to the store, so i have to figure out how to get back to Michigan Ave apple store again. 
+- also they can only ship to the store, so i have to figure out how to get back to Michigan Ave apple store again.
