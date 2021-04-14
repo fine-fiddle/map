@@ -32,3 +32,13 @@
 - and “as a courtesy, we’ll replace them this time. I believe your story” like she was doing me a favor
 - I asked her to record the fact that i had a photo showing the instructions, and it wasn’t a wild claim that she was choosing to believe, but several pieces of evidence, she didn’t want to put that in the note
 - also they can only ship to the store, so i have to figure out how to get back to Michigan Ave apple store again.
+
+## 2021-04-05
+- Apple store turns me away because i arrive at 8pm when it's closed
+- Apple sends refurbished smart case to my home. it also contains earpods which i don't see.
+
+## 2021-04-06
+OK this episode is over. There was some confusion about how I could be in the repair system but apple is not returning anything that I brought in. they figured it out in a big group of geniuis talking
+Really nice boxes for these with pop up book ejection tabs.
+My only weird observation:
+It looks like the masks apple gives to store employees are the carbon fiber containing disposables, which i thought were dangerous

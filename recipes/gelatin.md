@@ -46,7 +46,7 @@
    3. Rectangle held 2.7ml h2o.
    4. Only held 2.3ml material- less viscous.
    5. Took from 1308- 13:34
-8. ![result](gelatin/2021_03_18-results.jpeg "Yeilded 46 pieces"). 
+8. ![result](gelatin/2021_03_18-results.jpeg "Yeilded 46 pieces").
 9. ![residue on tools](gelatin/2021_03_18-residue.jpeg "significant waste in bowl, spatula, pipette- estimate 2 cubes. will weigh later.")
 10. ![pipette problem](gelatin/2021_03_18-contaminated_pipette.jpeg "Found I had aspirated material into pipette.")
 11. ![leftover mag sterate](gelatin/2021_03_18-leftover_mag_sterate.jpeg "wonder how much good is left in the mag sterate.")
@@ -82,7 +82,7 @@
    2. Only held 2.3ml material- less viscous.
    3. Took between 1308- 13:34
 8. Yeild 46 pieces. significant waste in bowl, spatula, pipette- estimate 2 cubes. will weigh later.
-9.  Found I had aspirated material into pipette.
+9. Found I had aspirated material into pipette.
 
 ## 4th Experiement 2021-03-17 Density
 - 1/3 c water, 6oz jello®
@@ -95,7 +95,7 @@
 2/3c water, large jello.
 - Dissolved fine, worked well but a little flimsy
 
-1/2c water? what did i do second? 
+1/2c water? what did i do second?
 - Sweet spot so far.x
 
 ## 2nd Experiment 2021-03-15
