@@ -34,7 +34,7 @@ DE of 42 according to "How Baking Works"
 - 67% sugar at room temp
 
 ## Doctors
-- "Sugar Doctors" are ingredients added to sugar to control crystalization. 
+- "Sugar Doctors" are ingredients added to sugar to control crystalization.
 ### Glucose Syrup
 70-91% solids depending on product.
 heat 70g glucose in 30g water to make glucose syrup.
@@ -57,6 +57,6 @@ Acids invert a portion of the sugar
 ### Invert Sugar
 "130 sweetness"
 Inversion, page 175
-Inversion is hydrolysis of sucrose ito fructose and dextrose. 
+Inversion is hydrolysis of sucrose ito fructose and dextrose.
 Happens during exposure of sucrose in solution to acid, or through the enzyme 'invertase'
 Invert sugar can be added directly, allowing more control than acid- the length of time and heat of the solution don't increase inversion percentage.

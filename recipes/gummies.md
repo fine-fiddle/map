@@ -59,7 +59,7 @@ Substituted, do not use
 
 ### Attempt
 12 drops violet
-4-5 drops watermelon. need a pipette next time. 
+4-5 drops watermelon. need a pipette next time.
 2 tsp citric in the gelatin before mixing with sugar.
 Sugar crystalized while cooling down to 245. Remelted with boiling when adding gelatin.
 
