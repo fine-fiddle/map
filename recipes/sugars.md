@@ -16,18 +16,18 @@ Disaccharides are chains of two monos that are broken down during digestion. Suc
 - 82g dissolve in 18g water at a boil.
 - 67g dissolve in 33g water at room temp
 
-
 ### Glucose aka dextrose
 - In nature, bound to another sugar to form polysacchareide starches or disaccharides- like sucrose or lactose
 - Contributes to a shorter texture
 - perceived 70% sweetness of Sucrose
 
 ### Fructose
-- Monosaccharide 
+- Monosaccharide
 
 ## Products
 ### Light Corn Syrup
-22.81% water according to the USDA Nutritional Data Base #19350
+22.81% water according to the USDA Nutritional Data Base #19350 (77.91% solids)
+DE of 42 according to "How Baking Works"
 
 ### Simple Syrup
 - Solution of water saturated with sucrose, not inverted.
@@ -36,7 +36,7 @@ Disaccharides are chains of two monos that are broken down during digestion. Suc
 ## Doctors
 - "Sugar Doctors" are ingredients added to sugar to control crystalization. 
 ### Glucose Syrup
-70-91% solids depending on product. 
+70-91% solids depending on product.
 heat 70g glucose in 30g water to make glucose syrup.
 ### Acids
 #### Organic Acids
@@ -48,10 +48,10 @@ heat 70g glucose in 30g water to make glucose syrup.
 
 ##### Effects
 Acids invert a portion of the sugar
-  - This increases perceived sweetness
-  - Gives products a shorter texture
-  - Makes them more hygroscopic
-  - makes more prone to browning
+- This increases perceived sweetness
+- Gives products a shorter texture
+- Makes them more hygroscopic
+- makes more prone to browning
 - Continuous process. The longer acid is present with fluid sugar X the higher the temperature, the more sugar molecules invert, and the greater degree to which the above effects are present.
 
 ### Invert Sugar

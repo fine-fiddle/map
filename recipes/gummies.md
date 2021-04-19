@@ -3,7 +3,7 @@
 - recipe via Chocolates and Confections, Grewling. "Gelatin Gummies"
 
 ## My Modified Recipe
-| Ingredient        | Weight        | Weight (oz)       | Bakers Percent    |
+| Ingredient        | Weight        | Weight (oz)       | total  Percent    |
 |-------------------|---------------|-------------------|-------------------|
 | Gelatin           | 100g          | 3.5oz             | 6%                |
 | H2O, Cold         | 260g          | 9oz               | 17%               |
@@ -34,9 +34,39 @@
    2. Mix flavor, acid(?) and color into gelatin before adding to sugar
 4. Using preheated funnel, deposit into starch molds. Starch Mold Technique on p74
 
+## 2nd Attempt 2021-04-18 Half Batch, Full Sucrose
+### Hypothesis
+- Full Sucrose should make long bite.
+- Half Batch shouldn't affect.
+- est glucose syrup is 70% solids
+
+### Half Batch Full Sucrose Recipe
+| Ingredient        | Weight        | Bakers Percent    |
+|-------------------|---------------|-------------------|
+| Gelatin           | 50g           | 6.6%              |
+| H2O, Cold         | 130g          | 17%               |
+| sugar             | 410g          | 54%               |
+| H2O               | 160g          | 21.3%             |
+| Flavoring         | 4-5 drops     |                   |
+| Coloring          | 12 drops      |                   |
+| Citric acid       | 2tsp          |                   |
+| Batch size        | 750g          | 100%              |
+
+Substituted, do not use
+| ~Glucose Syrup~   | ~215g~        | ~29%~             |
+| sucrose syrup sub | 151g          |                   |
+| H2O syrup sub     | 64g           |                   |
+
+### Attempt
+12 drops violet
+4-5 drops watermelon. need a pipette next time. 
+2 tsp citric in the gelatin before mixing with sugar.
+Sugar crystalized while cooling down to 245. Remelted with boiling when adding gelatin.
+
 ## First Attempt 2021-04-11
 - Light Corn Syrup instead of Glucose Syrup
 - put splash of tropical fruit punch flavor in melted gelatin
+- used sunset yellow food color, but how many drops? 6? 12?
 - put food color in gelatin
 - put 2 tsp of citric acid in sugar
 - accidentally turned sugar down to 100F and then back up to 240F
