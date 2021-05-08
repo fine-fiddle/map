@@ -1,0 +1,55 @@
+# Plants
+## 2021-04-25 Woldhuis Sunrise
+
+- Caterpillar Plant - chenille hanging plant 
+  - https://homeguides.sfgate.com/care-chenille-hanging-plant-44437.html
+- "Gunsmoke" switchgrass "Fanicum Virgatum" (pw)
+  - height 4-4.5'
+  - space 3-3.5'
+  - light more than 6 hours sun
+  - Zone 4-9
+  - blooms late summer
+  - pair with stonecrop, aster, yarrow
+- "Fiber Optic Grass" lsolepsis (scirpus) cernus (pw)
+  - habitat mounded
+  - blooms early summer
+  - height 10-14"
+  - zones: annual except in 8-10, hardy to 20f
+  - light: full to part sun
+- "Cheyenne Sky" grass Panicum Virgatum (pw)
+  - height- 36"
+  - zones: hardy in 4-9, to -25f
+  - blooms: late summer
+  - full sun
+- "Mexican feather grass" 
+  - height: 12-24"
+  - zones: annual except in 7-10, hardy to 5f
+- "Blue Dart Colorgrass" Juncus Tenuis 
+  - light: sun to shade
+  - height: 14-16"
+- "Rex Begonia Escargot" 
+  - light: shade
+  - water: when slightly dry to touch
+- "Charmed Wine" oxalis (pw)
+  - light: sun to shade.
+  - habitat: mounded
+  - blooms: mid spring through summer
+  - zones: annual except 8a-11b, hardy to 15°F
+- "Spotted bee balm" monarda punctata (bluebird nursery)
+  - domestic plant
+  - light: full to part
+- "Short toothed mountain mint" pycnanthemum muticum
+  - light: full sun
+  - Zone: 3
+- "Brilliance autumn fern" Dryopteris Erythrosora
+  - height: 2'
+  - light: less than 4h daily
+  - pair with: hosta, brunnera, shakeroot
+- Pea Nut
+  - Matures: 100-150 days
+  - light: full sun
+- Rudbeckia
+  - "Chestnut Gold"
+- "jumbo yellow" and "jumbo red" Bracteantha (dreamtime)
+  - light: full sun
+  - 

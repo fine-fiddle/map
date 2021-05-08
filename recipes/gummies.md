@@ -34,7 +34,29 @@
    2. Mix flavor, acid(?) and color into gelatin before adding to sugar
 4. Using preheated funnel, deposit into starch molds. Starch Mold Technique on p74
 
+## 3rd attepmt 2021-04-25 Half Batch, glucose majoirty
+| Ingredient        | Weight        | Bakers Percent    |
+|-------------------|---------------|-------------------|
+| Gelatin           | 50g           | 6.6%              |
+| H2O, Cold         | 130g          | 17%               |
+| Glucose           | 355g          | 47%               |
+| Sucrose           | 150g          | 20%               |
+| h20               | 65g           | 8.6%              |
+|                   |               |                   |
+| Batch Totals      | 750g          | 99.2%             |
+
+- melted gelatin too early becasue i was looking at pan-bottom sensor rather than syrup temperature
+- gelatin wasn't well mixed with the syrup, saw stripes when I was depositing.
+- some of the syrup had congealed to the bottom of the pan
+- syrup seemed more likely to spatter, makes me wonder what pure syrup would have been like. 
+  - Definitely needed eye protection, and leather gloves wouldn't have been a bad idea. 
+  - in early cooking it seemed like only the bottom was at boiling temperature.
 ## 2nd Attempt 2021-04-18 Half Batch, Full Sucrose
+### Results
+- did crystalize when cooling
+- tender sticky gummies
+- gummies dried with crystalized outsides
+- 
 ### Hypothesis
 - Full Sucrose should make long bite.
 - Half Batch shouldn't affect.

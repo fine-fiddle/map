@@ -5,6 +5,7 @@ Sugars are monosaccharides and disaccharides.
 Disaccharides are chains of two monos that are broken down during digestion. Sucrose is a disaccharide of Fructose and Glucose.
 
 ### polysacchareide starches
+<https://user.eng.umd.edu/~nsw/ench485/lab5.htm>
 - Chains of monosaccharides like glucose
 - Examples include starch (amylose amylopectin) or energy storage transport things like glycogen and galactogen
   - disassembled in water with amylase enzyme catalysts
