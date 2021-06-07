@@ -45,10 +45,10 @@ Test in duromatic. Fill with warm water to about water level in pints
 ### Soaking Quart Experiment 2
 - gonna try 175g dry beans per jar
   - Also, stay half an inch below the line.
-\frac{200}{381} = \frac{175}{x} = 331g for my new storage size. Actually ended up being like 320. 
+\frac{200}{381} = \frac{175}{x} = 331g for my new storage size. Actually ended up being like 320.
 
-- [ ] +~ 37g onion 
-- [ ] + ~ 25 g red pep 
+- [ ] +~ 37g onion
+- [ ] + ~ 25 g red pep
 - [ ] +11g jalapeno ~2 slices jalapeno
 - [ ] +1/4 tsp table salt
 - [ ] +1/2 tsp oregano (scant)
@@ -59,4 +59,29 @@ Test in duromatic. Fill with warm water to about water level in pints
 - [ ] water to 1/2" below max line.
 - [ ] +1/8th tsp pulla
 
-bay, salt, pulla, onion, red pep, sausage, ancho, cumin, 
+bay, salt, pulla, onion, red pep, sausage, ancho, cumin
+
+When i tightened the tattlers with 3 fingers as hard as i could, two of them seemed to be over-tight, and didn't discharge gas properly.
+
+## 2021-05-09 Gold Master Recipe take 1
+
+Per Jar:
+- [ ] 170g dried black beans, 320g pre-soaked.
+- [x] +~ 37g onion
+- [x] + ~ 25 g red pep
+- [x] +11g jalapeno ~2 slices jalapeno
+- [x] +1/4 tsp table salt
+- [x] +1/2 tsp oregano (scant)
+- [x] +1/4 cumin
+- [x] +1 tsp ancho
+- [x] 20g chorizo
+- [x] 12g garlic
+- [x] bay leaf
+- [ ] water to 1/2" below max line.
+- [x] +1/8th tsp pulla
+
+1. Soak the beans for 4 hours.
+2. Put the non-beans in the jars.
+3. put the beans on top
+4. Fill to no more than half an inch below the jar's max line
+5. tighen the tattler lids with 3 fingers, but it doesn't have to be max strength. 

@@ -35,5 +35,6 @@
     "MD013": false,
     // Trailing punctuation in heading
     "MD026": false
-  }
+  },
+  "javascript.suggest.names": false
 }

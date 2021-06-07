@@ -34,7 +34,82 @@
    2. Mix flavor, acid(?) and color into gelatin before adding to sugar
 4. Using preheated funnel, deposit into starch molds. Starch Mold Technique on p74
 
-## 3rd attepmt 2021-04-25 Half Batch, glucose majoirty
+## 7th 2021-05-25 half recipe, medicated
+35 vyvanses, attempt to remove lubricant
+2.7ml teal cube, 1/4 batch = ~200ml, 74 gummies... est.
+need 70 with 35 vyvanses.
+
+225g bowl for water additions
+target = 355g
+1 wash - 266g
+
+came out to 183 gummies. Not tooo much waste, and turned much of the waste into balls that i weighed to match the size of a cube
+each gummy is about 1/5th a 70mg pill aka 14mg
+
+- gummy sticks to stainless better than silicone or wood, so get waste on silicone or wood and then wrap it on a butter knife
+- Make the gummy tougher by putting a larger batch of gelatin into the syrup!
+- lightly coating them with oil makes them easy to handle, and it's easy to do. I rubbed it on with gloved hands.
+
+| Ingredient        | Weight        | total  Percent    |
+|-------------------|---------------|-------------------|
+| Gelatin           | 50g           | 6%                |
+| H2O, Cold         | 130g          | 17%               |
+| sugar             | 260g          | 35%               |
+| H2O               | 95g           | 13%               |
+| Glucose Syrup     | 215g          | 29%               |
+| Flavoring         | none          |                   |
+| Coloring          | 13 drops      |                   |
+| Citric acid       | none          |                   |
+| Batch size        | 750           | 100%              |
+
+
+## 6th 2021-05-25 half recipe, trying for bar mold count
+- 13 drops green
+- 1.5ml pear
+- 2 tsp citric
+- 2 tbsp chia (scant)
+- yeild 30 bars.
+- maybe full recipe so i have 2 months worth.
+
+## 5th 2021-05-25 Original recipe, 1/4thed
+| Ingredient        | Weight        | total  Percent    |
+|-------------------|---------------|-------------------|
+| Gelatin           | 25g           | 6%                |
+| H2O, Cold         | 65g           | 17%               |
+| sugar             | 130g          | 35%               |
+| H2O               | 47.5g         | 13%               |
+| Glucose Syrup     | 107.5g        | 29%               |
+| Flavoring         | .5ml          |                   |
+| Coloring          | 7 drops       |                   |
+| Citric acid       | 1 tbsp        |                   |
+| Batch size        | 375           | 100%              |
+
+- yeilded only 13 'bar' gums. left a large portion on sides of dispenser
+- was very difficult to mix, and some hard candy had formed.
+- beautiful color (yellow)
+- flavor a bit gross (orange cream)
+
+## 4th. 2021-05-24 Original Half Batch-d halved. Flavor proportions
+
+| Ingredient        | Weight        | total  Percent    |
+|-------------------|---------------|-------------------|
+| Gelatin           | 50g           | 6%                |
+| H2O, Cold         | 130g          | 17%               |
+| sugar             | 260g          | 35%               |
+| H2O               | 95g           | 13%               |
+| Glucose Syrup     | 215g          | 29%               |
+| Flavoring         | 1ml grapple   |                   |
+| Coloring          | 13 drops      |                   |
+| Citric acid       | 1 tbsp        |                   |
+| Batch size        | 750           | 100%              |
+
+- cooked to 180F. sprinkled a little extra gelatin on the top
+- this filled maybe 2x 126 cube trays. (was very sloppy)
+- turned off heat completely when it hit 240.
+- Tried to mix dilligently, and there were some lumps left. maybe could have fixed it by removing the thermometer and scraping the whole bottom
+- It was colder than usual, but that didn't hurt things too much.
+
+## 3rd attempt 2021-04-25 Half Batch, glucose majoirty
 | Ingredient        | Weight        | Bakers Percent    |
 |-------------------|---------------|-------------------|
 | Gelatin           | 50g           | 6.6%              |
@@ -48,9 +123,10 @@
 - melted gelatin too early becasue i was looking at pan-bottom sensor rather than syrup temperature
 - gelatin wasn't well mixed with the syrup, saw stripes when I was depositing.
 - some of the syrup had congealed to the bottom of the pan
-- syrup seemed more likely to spatter, makes me wonder what pure syrup would have been like. 
-  - Definitely needed eye protection, and leather gloves wouldn't have been a bad idea. 
+- syrup seemed more likely to spatter, makes me wonder what pure syrup would have been like.
+  - Definitely needed eye protection, and leather gloves wouldn't have been a bad idea.
   - in early cooking it seemed like only the bottom was at boiling temperature.
+
 ## 2nd Attempt 2021-04-18 Half Batch, Full Sucrose
 ### Results
 - did crystalize when cooling
